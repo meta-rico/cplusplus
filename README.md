@@ -1,3 +1,3 @@
 #cplusplus
 
-The main file inhabit a few branches. 
+The main file inhabits a few branches. 
